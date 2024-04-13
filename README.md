@@ -164,6 +164,28 @@ GROUP BY home_ownership, last_pymnt_d order by last_pymnt_d;
  ```
 ---
 
+### Results
+---
+Analysis results are summarized as follows:-
+* 1> In the year 2007 total loan amount was 2 million dollar which  is minimum
+   and in the year 2011 total loan amount was 261 million dollars which is maximum.
+  
+* 2>  For Grade A and Sub grade A5 total revol bal is 35303 K dollar, For Grade B and Sub Grade B5 total revol bal 37859 dollars,
+  For Grade C and Sub Grade C1  total revol bal is 29385 K dollar,For Grade D and Sub Grade D2 total revol bal is 18571 K dollars,
+  For Grade E and Sub Grade E1 total revol bal is 11133 K dollars, For Grade F and Sub Grade F1 total revol bal is 5841 K dollars
+  and For Grade G and Sub Grade G1 total revol bal is 1809 K dollars.
+  
+* 3> Total Payment for Verified Status is 220 million dollar and for non verified is 154 million dollar.
+
+* 4> For State AK in the month of December when loan status is fully carged then count of loan status is 10.
+  
+* 5>  When home ownership is "Mortgage" and last Payment is " 1 Oct 2008" then last paymentn amount is 52335.39 which is max,
+   When home ownership is "own" and last Payment is " 1 June 2008" then last payment amount is 9624.64 which is max,
+  When home ownership is "rent" and last Payment is " 1 Oct 2008" then last payment amount is 80236.03 which is max
+---
+
+   
+
 
 
 
