@@ -50,6 +50,14 @@ Primary Dataset used for this project Analysis is Bank loan data containing deta
 * 4> State wise and month wise loan status
 * 5> Home ownership Vs last payment date stats
 
+---
+## Tools
+ * Microsoft Excel
+ * Microsoft PowerBi
+ * Mysql
+ * Tableau
+---
+
 
 
 
