@@ -195,7 +195,7 @@ Based on the analysis we recommend the following actions:-
 ## Project Files Location Links
 ---
   *  Bank Loan Analytics [Excel Files Here](https://docs.google.com/spreadsheets/d/1l2r2RZi3eWhJXu6jvKUQakfLZUod2Fg_/edit?usp=drive_link&ouid=105011731887114377849&rtpof=true&sd=true)
-  *  
+     
   *  Bank Loan Analytics [Power Bi Files Here] (https://drive.google.com/file/d/1BB0zfR0AGTAj_rWJ6OtkMAEsufd-jbMn/view?usp=drive_link)
     
   *  Bank Loan Analytics [Tableau Files Here] (https://drive.google.com/file/d/1YNdQEd99d6JPyXP2QyPYAwuwnZW9vgJz/view?usp=drive_link)
