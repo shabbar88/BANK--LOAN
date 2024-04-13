@@ -188,8 +188,9 @@ Analysis results are summarized as follows:-
 ---
 Based on the analysis we recommend the following actions:-
 
-*
-
+* 1> Bank people should target non verified Status in order to increase loan amount  as there huge difference in %age between
+  Verified and Nonn Verified Status.
+* 2>  Bank People should target Grade  F and G as there revol bal is less than 5000 K.
 ---
 
 ## Project Files Location Links
