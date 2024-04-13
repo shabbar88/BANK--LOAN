@@ -42,5 +42,9 @@ Primary Dataset used for this project Analysis is Bank loan data containing deta
 [Bank Data](https://drive.google.com/drive/folders/1wc-gkqra5fnJE07QW6fUtMClRfpCJG4F?usp=sharing)
 ---
 
+## **Problem Statement**
+---
+
+
 
 
