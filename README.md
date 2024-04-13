@@ -35,6 +35,7 @@ and gain a deeper understanding of bank Performance. In this Project I solved th
 ---
 
 ### Data Sources
+---
 
 Primary Dataset used for this project Analysis is Bank loan data containing detailed information about the loan in the bank.
 
