@@ -24,3 +24,9 @@
 ---
 
 
+## Tableau Dashboard Screenshot
+![BANK_LOAN1_TABLEAU](https://github.com/shabbar88/BANK--LOAN/assets/68353026/3af8bc37-38ce-4531-bbda-f9475a2c5a79)
+---
+
+
+
