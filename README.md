@@ -16,4 +16,11 @@
 ---
 ### Excel Dashboard Screenshot 
 ![bank_loan1](https://github.com/shabbar88/BANK--LOAN/assets/68353026/0204f917-0bea-4d2c-a8ae-f5968b480e3a)
+---
+
+
+## PowerBi Dashboard Screenshot
+![BANK_LOAN1_TABLEAU](https://github.com/shabbar88/BANK--LOAN/assets/68353026/fa4f284e-ee99-455c-95b2-07a3683bd166)
+---
+
 
