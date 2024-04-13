@@ -28,5 +28,17 @@
 ![BANK_LOAN1_TABLEAU](https://github.com/shabbar88/BANK--LOAN/assets/68353026/3af8bc37-38ce-4531-bbda-f9475a2c5a79)
 ---
 
+### **Project Overview**
+---
+This Data Analytics Project aims to provide insights into the loan of customer over numerous months. By analyzing various aspect of loan Data , we seek to identify trends, make data driven recommendation
+and gain a deeper understanding of bank Performance. In this Project I solved the various loan related questions.
+---
+
+### Data Sources
+
+Primary Dataset used for this project Analysis is Bank loan data containing detailed information about the loan in the bank.
+[Bank Data](https://drive.google.com/drive/folders/1wc-gkqra5fnJE07QW6fUtMClRfpCJG4F?usp=sharing)
+---
+
 
 
